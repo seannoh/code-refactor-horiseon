@@ -6,24 +6,35 @@ This project is a refactoring of the original code for the horiseon website to m
 
 ## Optimizations Made
 
-- 
-- 
-- 
+- Refactored using semantic HTML elements rather than <div> elements
+- Consolidated and reorganized redundant classes
+- Renamed classes and ids for clarity
+- Added comments to explain HTML and CSS
+- Added alt text to images
+- Added a consise, descriptive title
 
 ## Installation
 
+Upload all files from the repository to your server. The website linked below is deployed using Github Pages.
 
+### Links to website and repository
+
+- [https://www.seannoh.github.io/mod1-code-refactor](Website)
+- [https://github.com/seannoh/mod1-code-refactor](Repository)
 
 ## Usage
 
+Once deployed, the website can be used as expected.
 
+## Snapshot
 
-## Credits
+![Horiseon site snapshot](https://github.com/seannoh/mod1-code-refactor "Horiseon Site Snapshot")
 
-### References used
+## References used
 
-- 
-- 
-- 
+- [https://www.w3schools.com/html/html5_semantic_elements.asp]
+- [https://supercooldesign.co.uk/blog/how-to-write-good-alt-text]
+- [https://dev.to/github/how-to-use-github-pages-to-host-your-website-even-with-multiple-repos-27k2]
+- [https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet]
 
 ## License
