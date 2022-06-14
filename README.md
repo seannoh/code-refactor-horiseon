@@ -6,7 +6,7 @@ This project is a refactoring of the original code for the horiseon website to m
 
 ## Optimizations Made
 
-- Refactored using semantic HTML elements rather than <div> elements
+- Refactored using semantic HTML elements rather than &lt;div&gt; elements
 - Consolidated and reorganized redundant classes
 - Renamed classes and ids for clarity
 - Added comments to explain HTML and CSS
@@ -28,7 +28,7 @@ Once deployed, the website can be used as expected.
 
 ## Snapshot
 
-![Horiseon site snapshot](https://github.com/seannoh/mod1-code-refactor "Horiseon Site Snapshot")
+![Horiseon site snapshot](assets/images/SEO%2C%20Reputation%20%26%20Marketing%20_%20Horiseon.png "Horiseon Site Snapshot")
 
 ## References used
 
