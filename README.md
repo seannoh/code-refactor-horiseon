@@ -19,8 +19,8 @@ Upload all files from the repository to your server. The website linked below is
 
 ### Links to website and repository
 
-- [Website](https://seannoh.github.io/mod1-code-refactor/)
-- [Repository](https://github.com/seannoh/mod1-code-refactor)
+- [Website](https://seannoh.github.io/code-refactor-horiseon/)
+- [Repository](https://github.com/seannoh/code-refactor-horiseon)
 
 ## Usage
 
