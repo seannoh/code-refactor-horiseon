@@ -81,7 +81,7 @@ p {
     color: #ffffff;
 }
 
-.benefit-block h3 {
+.benefit-block h1 {
     margin-bottom: 10px;
     text-align: center;
 }
@@ -131,7 +131,7 @@ p {
     max-height: 200px;
 }
 
-.service-block h2 {
+.service-block h1 {
     margin-bottom: 20px;
     font-size: 36px;
 }

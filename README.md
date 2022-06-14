@@ -36,3 +36,4 @@ Once deployed, the website can be used as expected.
 - https://supercooldesign.co.uk/blog/how-to-write-good-alt-text
 - https://dev.to/github/how-to-use-github-pages-to-host-your-website-even-with-multiple-repos-27k2
 - https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+- https://web.dev/heading-order/
