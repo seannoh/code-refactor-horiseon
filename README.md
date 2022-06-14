@@ -19,8 +19,8 @@ Upload all files from the repository to your server. The website linked below is
 
 ### Links to website and repository
 
-- [https://www.seannoh.github.io/mod1-code-refactor](Website)
-- [https://github.com/seannoh/mod1-code-refactor](Repository)
+- [Website](https://seannoh.github.io/mod1-code-refactor/)
+- [Repository](https://github.com/seannoh/mod1-code-refactor)
 
 ## Usage
 
@@ -32,9 +32,7 @@ Once deployed, the website can be used as expected.
 
 ## References used
 
-- [https://www.w3schools.com/html/html5_semantic_elements.asp]
-- [https://supercooldesign.co.uk/blog/how-to-write-good-alt-text]
-- [https://dev.to/github/how-to-use-github-pages-to-host-your-website-even-with-multiple-repos-27k2]
-- [https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet]
-
-## License
+- https://www.w3schools.com/html/html5_semantic_elements.asp
+- https://supercooldesign.co.uk/blog/how-to-write-good-alt-text
+- https://dev.to/github/how-to-use-github-pages-to-host-your-website-even-with-multiple-repos-27k2
+- https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
